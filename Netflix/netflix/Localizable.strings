@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  netflix
+
+  Created by Yago Teixeira on 15/07/22.
+  
+*/
+"popular" = "Popular";
+"topRated" = "Top Rated";
+"latest" = "Latest Release";
+"upcoming" = "Upcoming";
